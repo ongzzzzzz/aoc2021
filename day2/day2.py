@@ -1,5 +1,4 @@
-# https://adventofcode.com/2021/day/2/input
-# print("Enter/Paste your content. Ctrl-D or Ctrl-Z ( windows ) to save it.")
+# https://adventofcode.com/2021/day/2
 instructions = []
 while True:
 	try:

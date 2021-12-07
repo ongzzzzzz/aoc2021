@@ -1,5 +1,5 @@
-# https://adventofcode.com/2021/day/1/input
-# print("Enter/Paste your content. Ctrl-D or Ctrl-Z ( windows ) to save it.")
+# https://adventofcode.com/2021/day/1
+print("Enter/Paste your content. Ctrl-D or Ctrl-Z ( windows ) to save it.")
 data = []
 while True:
 	try:

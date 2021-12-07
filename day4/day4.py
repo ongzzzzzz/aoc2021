@@ -1,10 +1,9 @@
-# https://adventofcode.com/2021/day/4/input
-# print("Enter/Paste your content. Ctrl-D or Ctrl-Z ( windows ) to save it.")
-
+# https://adventofcode.com/2021/day/4
 numbers = [int(n) for n in input().split(",")]
 input() # get rid of the extra line break
 boards = []
 board = []
+
 while True:
 	try:
 		line = input()

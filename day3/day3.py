@@ -1,5 +1,4 @@
-# https://adventofcode.com/2021/day/3/input
-# print("Enter/Paste your content. Ctrl-D or Ctrl-Z ( windows ) to save it.")
+# https://adventofcode.com/2021/day/3
 binaries = []
 while True:
 	try:
